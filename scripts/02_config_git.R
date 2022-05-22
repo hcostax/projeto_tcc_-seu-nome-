@@ -28,6 +28,6 @@ usethis::git_sitrep()                    # Checando se a configuração deu cert
 
 
 usethis::use_git()
-
+usethis::use_github()
 
 
